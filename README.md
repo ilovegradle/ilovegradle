@@ -1,11 +1,12 @@
 # 👋 嗨，我是 李树祥！
+"I don't just write code; I build bridges—between complex problems and elegant solutions."
 
-> 一个热衷于用代码解决问题、偶尔与 Bug 深度谈心的 [学生]。
+> 一个热衷于用代码解决问题、偶尔与 Bug 深度谈心的学生。
 
 ---
 
 ### 👨‍💻 关于我
-* 💡 我目前专注于 **[前端 Vue]**。
+* 💡 我目前专注于 **[计算机应用技术]**。
 * 🌱 正在深入学习 **[人工智能技术与应用]**。
 * ✍️ 偶尔会在 [[掘金](https://juejin.cn/user/3458416969003658)] 分享技术心得。
 * 🎨 业余时间，我喜欢 [撸猫]。
@@ -27,6 +28,8 @@
 
 ---
 
+如果非要用一个词来概括我 那么一定是“Bridge”
+
 ### 📫 如何联系我 (Connect with Me)
 
 无论你是想聊聊技术，还是想单纯地打个招呼，都欢迎通过以下方式找到我：
@@ -34,7 +37,4 @@
 * 📧 **Email:** [kensmile233@gmail.com]
 * 💬 **WeChat:** [Jessykopen]
 
----
 
-### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[你的GitHub用户名]&show_icons=true&theme=radical)
